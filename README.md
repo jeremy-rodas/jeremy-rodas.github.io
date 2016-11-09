@@ -12,5 +12,5 @@
 
 <h1>Resources</h1>
 
-<p><a hief="https://vimeo.com/15032988>"Linotype:The Film" </a></p>
+<p><a hief="https://vimeo.com/15032988">Linotype:The Film</a></p>
 
