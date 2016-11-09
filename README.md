@@ -13,5 +13,5 @@ Personal Work
 
 <h1>Resources</h1>
 
-<a hief="https://vimeo.com/15032988>"Linotype: The Film" </a>
+<a hief="https://vimeo.com/15032988>"Linotype:The Film" </a>
 
