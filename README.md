@@ -3,7 +3,7 @@ Personal Work
 
 <h2>Mark up</h2>
 
-<h2>Html/Postscript/Original</h2>
+<h2>Html/Postscript</h2>
 
 <a hief="formats/new-question.html"> HTML file</a>
 
