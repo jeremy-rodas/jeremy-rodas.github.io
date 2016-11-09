@@ -5,9 +5,9 @@ Personal Work
 
 <h2>Html/Postscript</h2>
 
-<a hief="formats/new-question.html"> HTML file</a>
+<a hief="formats/new-question.html"> HTML code file</a>
 
-<a hief="formats/new_ps.ps"> Post Script file</a>
+<a hief="formats/new_ps.ps"> Post Script code file</a>
 
 <h1>Sketches</h1>
 
