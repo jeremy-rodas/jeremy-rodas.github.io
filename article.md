@@ -1,0 +1,58 @@
+<!--http://daringfireball.net/projects/markdown/-->
+
+# Article heading 1
+
+## Subheading
+
+The Psychology of Fonts
+Emily Matthews 13th Dec 2011
+Font is just one of the many factors that must be considered when making web design decisions. Tens of thousands of fonts are available for use by web designers and developers, and it doesn’t take a master’s degree to see that more are created each day. Choosing a font may seem like an arbitrary decision, but more than just personal preference should be considered when choosing one - font psychology plays a big role in the efficacy of our websites.
+Fonts have been shown to influence readability. Two key categories exist in the font world: serif (those fonts that include tails at the tops and bottoms of the letters) and sans serif (fonts that do not include the tails seen in serifs). Sans serif fonts are often used in websites, but designers should consider the implications of choosing one over the other.
+
+Type of Fonts
+Bodoni
+Serif fonts, for example, sometimes invoke a certain response in a reader that a sans serif font may not. In one study, readers were presented with satirical articles from the New York Times in two different fonts, Times New Roman and Arial.
+
+When asked to select adjectives describing the articles, readers were more likely to connect the words “funny” and “angry” with articles that were printed in Times New Roman than with those that were printed in Arial. Since both humor and anger are emotions central to the success of a satire, a serif font might be the wiser choice for an article or website that hopes to be considered satirical.
+
+Serif fonts are more readable than sans serif, with readers showing faster reading speeds and greater comprehension with the former. Fonts and font sizes that are less common, also known as disfluent fonts, have been shown to significantly improve a reader’s understanding of a text, perhaps because the reader is forced to study each word more carefully, forcing the brain to focus on the words and subsequently allowing it to retain the information more readily.
+
+Conversely, fonts that are exceptionally disfluent and hard to read can lead to a lack of comprehension and a lack of enthusiasm. One study showed that students who were given exercise instructions in clear, easy-to-read Arial were willing to perform the routines and assumed that they could do so with ease.
+
+Those who were given the same instructions in a more disfluent font, Brush, comprehended less of the text. As a result, these participants perceived the instructions themselves as more complex. They doubted their ability to perform the routines and were less willing to take the time to try. The success of the exercise plan depended upon the emotional reaction of the reader to the font.
+
+Arial
+The same has been found for furniture assembly instructions. Cleaner fonts like Arial are often considered to be easier to read, which reduces confusion and allows customers to comprehend instructions more easily. This eliminates confusion and leaves customers with a more satisfactory experience, which is beneficial to the company, as it may lead customers to continue buying their products.
+
+On the other hand, smaller sizes and more ornate fonts can convince consumers of an item’s complexity, a trait that might be viewed as beneficial in certain trades. Such is the case with restaurant menus, especially in more upscale venues. Many of these restaurants employ ornate fonts and complex vocabularies in their menus. Customers perceive the menu items to be more complex and presume that the value of the product is therefore higher. This allows the restaurant to charge more for their items without the customers questioning the legitimacy of these higher prices.
+
+Futura
+Fonts can be divided into families that go beyond serif or sans serif. There are the Geometric, Realist, and Grotesk, which rely on strict geometric forms. These can be seen as clean and modern but also impersonal and cold. Helvetica, Futura, and Gotham are three examples.
+
+Fonts in the Humanist Sans family are inspired by human handwriting. They are more idiosyncratic and varied than the more geometric fonts. They are clean and modern but still warm and friendly. Some examples are Optima and Verdana.
+
+Garamond
+Old Style or Venetian fonts are classic and traditional but may bore readers with their classicism. They are the oldest typefaces and are based upon calligraphy. Examples include Palatino and Garamond. Transitional and Modern typefaces are serif fonts that are more geometric than the classic Old Style fonts. They can convey strength and style. Examples include Bodoni and the ever-popular Times New Roman.
+
+Rockwell
+Slab Serif or Egyptian fonts resemble sans serifs in their simplicity but include boxy serifs on each letter’s end. Heavier versions of this font such as Rockwell can convey authority. Others have an urban feel, such as Courier. Since Courier is reminiscent of old typewriters or outdated computer printouts, it portrays a taste for comfort and antiquity.
+
+Certain fonts have been shown to appeal more to certain demographics. Men are more drawn to rectilinear fonts, while women prefer a curvier font with a more prominent tail. Softer, curvier fonts are often used by those who wish to convey their sex appeal. Choosing an italic font can help to further soften the message.
+
+Classic serif fonts such as Times New Roman are more conservative and traditional. This type of font is also considered to be a human and professional choice, which makes it a good option for those hoping to come across as kind and knowledgeable.
+
+Comic Sans
+Sans serif fonts such as Arial display a desire to remain safe and anonymous. Arial is considered to be a more contemporary choice than Times New Roman. It remains the most widely used font. Comic Sans is informal and somewhat juvenile. It suggests that the author is looking for attention.
+
+Businesses that wish to appear approachable and friendly often choose fonts that mimic handwriting, though this sometimes leaves customers wondering if the company is being insincere.
+
+Size, too, conveys a certain image to readers. Larger fonts convey insecurity, suggesting that the author feels a need to fill the page. Smaller, more minimalist fonts are more successful choices for powerful messages.
+
+Another element of font selection that web designers must consider is the use of multiple fonts to strengthen the aesthetics of their site. Choosing two contrasting fonts is one tactic. Two fonts that are distinctly different but complementary can create tension, bringing energy to the page. If the fonts are too similar, however, the overall message can be weakened. Choosing one serif and one sans serif font is a good way to achieve balance when using two fonts.
+
+The use of more than two fonts on one page is generally excessive and should be avoided unless the designer is trying to achieve a very specific aesthetic, such as trying to replicate an old poster.
+
+CHOOSE YOUR FONTS WISELY
+The fonts that we choose have an impact on our readers, whether in emails, resumes, menus, or websites. Often without even realizing it, readers react psychologically to the appearance of a text.
+
+We build websites with a certain goal and audience in mind, and it is important to consider the emotions that we want our words to evoke in our readers. Consider your audience and the message you’re trying to pass on, and choose your font accordingly.
