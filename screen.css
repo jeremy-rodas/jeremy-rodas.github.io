@@ -1,0 +1,100 @@
+html {
+font: 100%/1 sans-serif;
+}
+
+body {
+  margin
+  }
+
+  h1 {
+font:normal 1em/1.4 "Helvetica LT Std", sans-serif;
+font-weight:bold;
+font-size: 2.8em;
+line-height: 1.25;
+margin-top:.28
+margin-bottom: .14em
+}
+
+  h2{
+font:normal 1em/1.4 "Helvetica LT Std", sans-serif;
+font-weight:bold;
+font-size: 1.68em;
+line-height: 1.667;
+margin-top:.28
+margin-bottom: .14em
+}
+
+h3 {
+font:normal 1em/1.4 "Helvetica LT Std", sans-serif;
+font-weight:bold;
+font-size: 1.12em;
+line-height: 1.667;
+margin-top:.28
+margin-bottom: .14em
+}
+
+p {
+  font: normal 1em/1.4 "Helvetica LT Std", sans-serif;
+  margin: .84em 0;
+}
+
+p.futura{
+	font: normal 1em/1.4 "futura std", sans-serif;
+	margin: .84em 0;
+}
+
+p.bodoni {
+	font: normal 1em/1.4 "Bodoni Std", serif;
+	margin: .84em 0;
+}
+
+p.garamond {
+	font: normal 1em/1.4 "Garamond Premier Pro", serif;
+	margin: .84em 0;
+}
+
+p.ComicSans {
+	font: normal 1em/1.4 "Comic Sans MS", sans-serif;
+	margin: .84em 0;
+}
+
+p.rockwell {
+	font: normal 1em/1.4 "Rockwell Std", serif;
+	margin:.84em 0;
+}
+
+article {
+  width: 90%;
+  max-width:48em; /* 60em and below */
+  margin: auto;
+  }
+
+ /*breakpoint1 / small*/
+
+@media (min-width:30em) {
+
+article {
+  width: 80%;
+  max-width: 60em;
+  margin: auto;
+  }
+}
+
+ /*breakpoint2 / medium*/
+
+@media (min-width:48em) {
+
+article {
+  width: 70%;
+  margin:auto;
+  }
+}
+
+/*breakpoint (for line length) / large/ print*/
+
+@media (min-width:60em) {
+
+article {
+ font-size:135%;
+  }
+}
