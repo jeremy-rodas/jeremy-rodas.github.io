@@ -3,7 +3,7 @@ Personal Work
 
 ##Fallback
 
-##Rsponsive
+##Responsive
 
 ##Markup
 
