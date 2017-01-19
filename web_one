@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="veiwport" content="width=device-width">
+    <meta name="author" content="jeremy rodas">
+    <title>hello world!</title>
+  </head>
+  <body>
+    
+    <h1>Hello World!</h1>
+    <h2>Hello World!</h2>
+    <h3>Hello World!</h3>
+    <h4>Hello World!</h4>
+    <h5>Hello World!</h5>
+    <h6>Hello World!</h6>
+    <p> Welcome to web authoring.</p>
+    <pre><code>&lt;!doctype html&gt;</code></pre>
+    
+    <section>
+      <h2>Browser</h2>
+      <ol>
+        <li>safari</li>
+        <li>chrome</li>
+        <li>opera</li>
+        <li>edge</li>
+        <li>firefox</li>
+      </ol>  
+    
+      <ul>
+        <li>safari</li>
+        <li>chrome</li>
+        <li>opera</li>
+        <li>edge</li>
+        <li>firefox</li>
+      </ul>  
+    </section>
+    
+    
+  </body>
+  
+</html>
+
